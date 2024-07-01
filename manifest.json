@@ -1,0 +1,11 @@
+{
+  "name": "sprinklr-custom-widget",
+  "version": "0.1.0",
+  "widgets": [
+    {
+      "id": "to-do",
+      "title": "To Do",
+      "url": "/todo"
+    }
+  ]
+}
